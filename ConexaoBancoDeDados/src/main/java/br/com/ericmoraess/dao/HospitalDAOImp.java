@@ -44,6 +44,8 @@ public class HospitalDAOImp implements HospitalDAO {
 	}
 
 	public boolean updateHospital() {
+		
+		System.out.println("Insira o valor");
 		// TODO Auto-generated method stub
 		return false;
 	}
