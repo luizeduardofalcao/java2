@@ -46,6 +46,7 @@ public class HospitalDAOImp implements HospitalDAO {
 	public boolean updateHospital() {
 		
 		System.out.println("Insira o valor");
+		System.out.println("Realizando o commit");
 		// TODO Auto-generated method stub
 		return false;
 	}
